@@ -221,6 +221,9 @@ footer{
 .question{
     padding: 34px 0;
 }
+.first .enjoy{
+    gap: 25px;
+}
 @media screen and (max-width: 1300px) {
     .footer{
         display: grid;
@@ -272,5 +275,12 @@ footer{
     }
     .btn{
         margin: 5px;
+        padding: 8px 15px;
+    }
+    nav img{
+        width: 115px;
+    }
+    .content-btn{
+        gap: 10px;
     }
 }
